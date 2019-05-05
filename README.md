@@ -1,5 +1,5 @@
 # Netflix-Influencers
-Machine Learning to identify influencers of stock based on Twitter posts
+Project to identify influencers of stock based on Twitter posts using Supervised and Unsupervised Machine Learning algorithms.
 
 Course: CIS 593 <br>
 Team: Dena Tapia, Cristi Guevara, Jason Hyacinthe, Jesse Swain
